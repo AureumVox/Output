@@ -1,0 +1,206 @@
+body{
+  background: linear-gradient(#1D4350,#A43931);
+  padding: 0;
+  margin: 0;
+}
+.image{
+  background-image: url("/resources/header.jpg");
+  background-size: cover;
+  height: 180px;
+  padding-top: 100px;
+}
+.caption{
+  color: #141E30;
+  text-align: center;
+  font-family: Georgia;
+  font-size: 60px;
+  background-color: whitesmoke;
+  position: relative;
+  opacity: 0.60;
+  display: block;
+  line-height: 80px;
+  font-weight: bold;
+  bottom: 10%;
+}
+#nav{
+  text-align: center;
+  font-family: Georgia;
+  font-size: 20px;
+  background-color: black;
+  position: relative;
+  opacity: 0.80;
+  display: block;
+  line-height: 30px;
+} 
+#nav a{
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+#nav a:hover{
+color: rgb(167, 49, 49);
+}
+
+h1{
+  text-align: center;
+  position: center;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  color: black;
+  font-size: 50px;
+  margin-left: 3%;
+}
+p{
+  text-align: center;
+  font-family: Georgia;
+  color: white;
+  font-size: 20px;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  color: black;
+  font-size: 35px; 
+  margin-left: 3%;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+  text-align: left;
+  color: black;
+  font-size: 25px; 
+  margin-left: 3%;
+}
+h4{
+  font-size: 30px;
+  color: white;
+  font-family: Georgia;
+  margin-left: 3%;
+  text-align: center;
+  text-shadow: 1px 1px 5px black;
+  padding-top: 20px;
+}
+h5{
+  color: rgb(151, 5, 5);
+  font-size: 20px;
+  font-family: Georgia;
+  margin-left: 3%;
+  text-align: center;
+  text-shadow: 1px 1px 3px rgb(255, 255, 255);
+}
+h6{
+  background-color: black;
+  color: white;
+  margin-bottom: 0px;
+  position: relative;
+  display: block;
+  line-height: 30px;
+  opacity: 0.90;
+  text-align: center;
+}
+li{
+  text-align: left;
+  color: rgb(0, 0, 0);
+  font-family: Georgia;
+  font-size: 16px;
+  margin-right: 30%;
+  margin-left: 3%;
+}
+
+.train p{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+.content h3{
+  text-align: center;
+  font-family: Georgia;
+  color: white;
+  font-size: 20px;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.image1 img{
+  width: 50%;
+  box-shadow: 1px 1px 10px #000000;
+  float: center;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.image2 img{
+  width: 50%;
+  box-shadow: 1px 1px 10px #000000;   
+  float: center;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+.image3 img{
+  width: 50%;
+  box-shadow: 1px 1px 10px #000000;
+  float: center;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+#excel{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: Georgia;
+  font-size: 20px;
+  background-color: rgb(139, 132, 34);
+  position: relative;
+  display: block;
+  line-height: 40px;
+  margin-right: 40%;
+  margin-left: 40%;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  float: center;
+  text-decoration: none;
+}
+
+#powerpoint{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: Georgia;
+  font-size: 20px;
+  background-color: rgb(139, 132, 34);
+  position: relative;
+  display: block;
+  line-height: 40px;
+  margin-right: 40%;
+  margin-left: 40%;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  float: center;
+  text-decoration: none;
+}
+
+.pic1 img{
+  position: inherit;
+  width:30%;
+  margin-left: 35%;
+  padding-top: 20px;
+}
+.pic2 img{
+  position: inherit;
+  width: 30%;
+  margin-left: 35%;
+  padding-top: 20px;
+}
+.pic3 img{
+  position: inherit;
+  width: 30%;
+  margin-left: 35%;
+  padding-top: 20px;
+}
+.tsdescription p{
+  text-align: center;
+  color: white;
+  font-family: Georgia;
+  font-size: 24px;
+}

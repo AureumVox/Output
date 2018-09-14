@@ -1,0 +1,52 @@
+
+body{
+    background: linear-gradient(#1D4350,rgb(72, 151, 151), #1D4350);
+    font-family: Georgia;
+    margin-bottom: 0;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 3%;
+}
+h2{
+    font-family: Georgia;
+    color: rgb(155, 197, 173);
+    margin-left: 3%;
+}
+.beaches{
+    color: white;
+    padding-bottom: 20px;
+    margin-left: 3%;
+
+}
+.beaches a{
+    color: white;
+    font-size: 20px
+}
+img{
+    box-shadow: 5px 5px 10px;
+    float: center;
+    margin-left: 3%;
+
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 30px; 
+    margin-left: 3%;
+}
+h6{
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    position: relative;
+    display: block;
+    line-height: 30px;
+    opacity: 0.90;
+    text-align: center;
+}
+p{
+    margin-left: 3%;
+}

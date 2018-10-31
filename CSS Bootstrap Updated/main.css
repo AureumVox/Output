@@ -1,0 +1,131 @@
+/* Universal Styles */
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 100;
+}
+
+
+/* Bootstrap Overrides */
+
+.jumbotron {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-7/img-clear-morning.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+	margin-top: 50px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.col-lg-4 {
+	margin-bottom: 30px;
+}
+
+.navbar-header {
+	padding-top: 10px;
+	font-size: 20px;
+	font-weight: 700;
+	color: rgb(255, 146, 5);
+}
+
+.jumbotron p {
+	font-weight: 300;
+}
+
+.navbar-header:hover {
+	text-decoration: none;
+	color: rgb(255, 146, 5);
+}
+
+.navbar-nav {
+	float: right;
+	font-weight: 500;
+	color: black;
+}
+
+#showcase {
+	margin-top: 50px;
+}
+
+
+/* About Section - Grid System */
+
+.quote-col {
+	font-size: 24px;
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+.col-xs-12 {
+	font-weight: 500;
+	color: rgb(255, 146, 5);
+	margin-top: -15px;
+}
+
+.description {
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 30px;
+	color: black;
+	padding: 20 300px;
+  letter-spacing: 1px;
+  margin-bottom: -10px;
+}
+
+
+/* Contact - Grid System */
+
+#contact p {
+	font-size: 16px;
+	font-weight: 300;
+  color: black;
+  margin-top: 3px;
+}
+
+.btn {
+	background-color: rgb(255, 146, 5);
+	border: 1px solid rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+}
+
+.btn:hover {
+	background-color: transparent;
+	border: 1px solid rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+}
+
+.btn-success {
+	background-color: rgb(255, 146, 5);
+	border: 1px solid rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+}
+
+.btn-success:hover {
+	background-color: transparent;
+	border: 1px solid rgb(255, 146, 5);
+	color: rgb(255, 146, 5);
+}
+
+.hotspot-wrapper {
+	position: relative;
+	overflow: hidden;
+	margin-top: 5px;
+}
+
+.hotspot-wrapper img {
+	-webkit-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+
+.hotspot-wrapper:hover img {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}

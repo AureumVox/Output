@@ -1,0 +1,79 @@
+.container-fluid {
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto
+}
+
+.jumbotron {
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto
+}
+
+.navbar-toggler {
+  width: 100%;
+  float: none;
+  margin-left: 0;
+}
+
+.navbar-nav ul {
+  width: 100%;
+  float: none;
+  margin-left: 0;
+}
+
+.dropdown {
+  text-align:center;
+}
+
+.dropdown-menu {
+  text-align: center;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.welcome {
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto
+}
+
+.padding i {
+  font-size: 100px;
+  color: rgb(102, 102, 102);
+}
+
+h4 {
+  color: rgb(155, 106, 0);
+}
+
+h5 {
+  color: rgb(155, 106, 0);
+}
+
+.adwords {
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto
+}
+
+.padding {
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto
+}
+
+.lead {
+  font-size: 24px;
+}
+
+.col-lg-5 {
+  margin-bottom: 80px;
+}
